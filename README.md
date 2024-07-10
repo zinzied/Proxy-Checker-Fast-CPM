@@ -45,3 +45,5 @@ This script is designed to help users verify the availability of a large number 
 - **Counters**: Labels to display the number of dead and working proxies.
 
 This script provides a comprehensive solution for proxy validation with a focus on usability and efficiency.
+
+[<img src="https://github.com/zinzied/Website-login-checker/assets/10098794/24f9935f-3637-4607-8980-06124c2d0225">](https://www.buymeacoffee.com/Zied)
